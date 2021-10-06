@@ -2,10 +2,18 @@
     width: 100%;
     margin: auto;
     text-align: center;
-    background-color: aqua;
+    background-color: #9cbd51;
+}
+p {
+    color: #3C14B2FF;
+    font-size: 23px;
+    font-family: 'Cuprum', sans-serif;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Mali', cursive;
 }
 
+
 img {
-    max-width: 100%;
+    max-width: 250px;
     height: auto;
 }
